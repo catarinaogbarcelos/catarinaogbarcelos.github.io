@@ -439,6 +439,18 @@ img {
   color: var(--accent-dark);
 }
 
+@media (max-width: 768px) {
+  .cards-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .card {
+    width: 100%;
+  }
+}
+
 /* Publications:
 entre publicações → margin-bottom em .pub-item
 entre categorias → margin-bottom em .pub-group 

@@ -1,2 +1,0 @@
-# catarinaogbarcelos.github.io
-Portfolio.
